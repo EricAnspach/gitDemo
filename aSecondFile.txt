@@ -1,1 +1,3 @@
 The Second Text File
+
+Some more text here in the second text file
